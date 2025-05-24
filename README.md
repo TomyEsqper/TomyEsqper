@@ -44,7 +44,7 @@ Soy un firme creyente del aprendizaje continuo. Siempre estoy explorando nuevas 
 ### 🗄️ Bases de datos
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />      
 </p>
 
 ### 🧰 IDEs y editores de código
@@ -78,25 +78,25 @@ Soy un firme creyente del aprendizaje continuo. Siempre estoy explorando nuevas 
 
 * **GitHub Readme Stats:** Muestra tus estadísticas generales y lenguajes más usados con [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-  ```md
-  <!-- GitHub Readme Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
-  ```
+```md
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomyEsqper&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+```
 
 * **Snake Game en tu gráfico de contribuciones:** Agrega un divertido snake-game en tu perfil usando [GitHub Profile Snake](https://github.com/Platane/snk).
 
-  ```md
-  <!-- GitHub Profile Snake -->
-  <img src="https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  ```
+```md
+<!-- GitHub Profile Snake -->
+<img src="https://github.com/TomyEsqper/TomyEsqper/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+```
 
 * **Estadísticas de Spotify:** Comparte lo que estás escuchando con [Spotify Now Playing Card](https://github.com/kittinan/spotify-now-playing-card).
 
-  ```md
-  <!-- Spotify Now Playing -->
-  <p align="center">
-    <img src="https://spotify-now-playing-readme.vercel.app/api?user=spotify_id&theme=default" alt="Spotify Now Playing" />
-  </p>
-  ```
+```md
+<!-- Spotify Now Playing -->
+<p align="center">
+  <img src="https://spotify-now-playing-readme.vercel.app/api?user=spotify_id&theme=default" alt="Spotify Now Playing" />
+</p>
+```
