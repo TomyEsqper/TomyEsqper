@@ -1,78 +1,91 @@
 # Tomás Esquivel Perdomo
 
-**Ingeniería de Sistemas | Analista y Desarrollador de Software**
+**Systems Engineering | software analyst and developer | Backend Developer | .NET Specialist**
 
-📧 [tomyesqper@gmail.com](mailto:tomyesqper@gmail.com) • 🌐 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-esquivel-perdomo-46047b300/) •
-
----
-
-## Sobre mí
-
-Hola, soy Tomás, una persona curiosa, autodidacta y apasionada por todo lo que implique construir, resolver y aprender. Desde joven me ha fascinado la idea de entender cómo funcionan las cosas, lo que me llevó naturalmente hacia la ingeniería de sistemas. Me encanta crear soluciones que tengan un impacto real en la vida cotidiana de las personas, especialmente si involucran tecnología.
-
-Disfruto trabajar en proyectos que combinen lo técnico con lo humano: aplicaciones que conectan personas, plataformas que reducen barreras, o herramientas que hacen más simple lo complejo. Me motiva pensar que cada línea de código puede transformar una experiencia.
-
-Más allá del desarrollo, también me gusta liderar iniciativas, colaborar en equipo y participar en eventos donde pueda compartir ideas y aprender de otros. He tenido la fortuna de participar en hackathones, concursos de robótica y proyectos sociales, experiencias que han fortalecido mis habilidades blandas y mi capacidad de adaptarme a distintos entornos.
-
-Soy un firme creyente del aprendizaje continuo. Siempre estoy explorando nuevas tecnologías, metodologías y campos emergentes como la computación cuántica. Me gusta desafiarme constantemente y no temo salir de mi zona de confort si eso significa crecer como profesional y como persona.
+📧 [tomyesqper@gmail.com](mailto:tomyesqper@gmail.com) • 🌐 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-esquivel-perdomo-46047b300/)
 
 ---
 
-## 🚀  Algunas herramientas que he usado y aprendido
+## 👨‍💻 About Me
 
-### 🧠 Lenguajes de programación
+I am a passionate backend developer specialized in the **.NET ecosystem**, with strong foundations in **Clean Architecture, Hexagonal Architecture, and SOLID principles**. My main focus is building **robust, scalable, and maintainable applications** that go far beyond CRUD — systems where every design decision improves flexibility, performance, and long-term value.
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</p>
+Curious and self-taught, I love exploring **emerging technologies** such as Artificial Intelligence and Quantum Computing, while constantly refining my skills in **software architecture, API design, and database optimization**.
 
-### 🌐 Frontend
+---
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
+## 🚀 Tech Stack
 
-### 🖥️ Backend y Frameworks
+| C# | .NET | Rider | MySQL | Git | GitHub | Linux | Postman |
+|----|------|-------|-------|-----|--------|-------|---------|
+| <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=rider" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/> |
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
-</p>
+---
 
-### 🗄️ Bases de datos
+## 🛠️ Technical Competencies
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="40" height="40"/>
-</p>
+### **Software Architecture & Design Patterns**
+- Clean Architecture (N-Layers: Domain, Application, Infrastructure, Adapters).
+- Hexagonal Architecture principles for decoupling core business logic from external systems.
+- SOLID principles applied in real-world projects.
+- Design patterns: Dependency Injection, Repository, Mapper/DTO, Service-Repository balance.
+- Experience conceptualizing distributed systems and microservices.
 
-### 🧰 IDEs y editores de código
+### **Backend Development with .NET and C#**
+- Proficient in **C#** and **ASP.NET Core**.
+- RESTful API design following industry best practices.
+- Advanced business logic implementation: dynamic queries, filtering, entity lifecycle management.
+- Request/Response management with controllers, attributes, and models.
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PHPStorm" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
-</p>
+### **Database Management**
+- Relational Databases: **MySQL**.
+- ORM: **Entity Framework Core** with advanced LINQ queries.
+- Database schema versioning and migrations.
+- Query optimization techniques for performance tuning.
 
-### 🔧 Control de versiones
+### **Workflow, DevOps & Version Control**
+- Advanced **Git** usage with GitHub.
+- Professional branching strategies (Git Flow).
+- Semantic commits with **Conventional Commits**.
+- Release and tagging workflows for production-ready versions.
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+### **Code Quality, Debugging & Documentation**
+- Writing clean, self-documented, maintainable code.
+- Project-level documentation (`README.md` + architecture decisions).
+- XML documentation for APIs and classes.
+- Debugging and troubleshooting expertise: compile-time errors, runtime exceptions, stack trace analysis.
 
-### 💻 Sistemas operativos y plataformas
+---
+🏆 Featured Projects
+---
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows 11" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
-</p>
+### **CunDropShipping – E-Commerce Microservices System**
+A modular e-commerce platform built under **Clean Architecture principles** and designed as a set of **scalable microservices**.  
+Each microservice is responsible for a core domain (Products, Shipments, Payments, etc.), ensuring maintainability, scalability, and clear separation of concerns.
+
+#### 🔹 Key Features
+- **Microservices Architecture**: Independent, decoupled services for core business areas.
+- **Clean Architecture & DDD**: Robust design focused on maintainability.
+- **.NET Core + EF Core + MySQL**: Modern backend stack ensuring scalability and performance.
+- **Git Flow Workflow**: Structured version control for collaborative development.
+
+#### 📂 Current Microservices
+- **[Product API](https://github.com/TomyEsqper/CunDropShipping-ProductApi)** → Handles product catalog management, CRUD operations, and inventory logic.
+- **[Shipments API](https://github.com/TomyEsqper/CunDropShipping-ShipmentsApi)** → Manages logistics, shipping orders, and delivery tracking.
+
+#### 🚀 Roadmap
+- **Payments API** → Secure transactions and billing.
+- **Users API** → Authentication, authorization, and user management.
+- **Orders API** → Order placement, status tracking, and history.
+
+> 💡 *This project demonstrates my ability to design, develop, and scale a backend ecosystem using modern software engineering practices.*
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyEsqper&layout=compact&theme=dracula)
+![TomyEsqper's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomyEsqper&show_icons=true&theme=dracula&count_private=true)
+---
+
+## 🚀 What Drives Me
+I believe every line of code can transform experiences. My mission is to design and build software that is **clean, impactful, and future-proof**.
